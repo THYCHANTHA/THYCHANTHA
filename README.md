@@ -94,9 +94,7 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 ## 📊 GitHub Analysis
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
