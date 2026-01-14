@@ -91,20 +91,20 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 
 ---
 
-### 📊 GitHub Analysis
+## 📊 GitHub Analysis
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=dark" alt="Thy Chantha's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=dark" height="150" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=darkhub" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=darkhub" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
