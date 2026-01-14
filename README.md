@@ -91,11 +91,15 @@ Hello! I'm **Thy Chantha**, a 4th-year **Data Science Engineering student** at t
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Thy Chantha's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=dark" alt="Thy Chantha's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=dark" alt="Top Languages" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=darkhub" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
