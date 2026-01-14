@@ -12,7 +12,7 @@
 <a href="https://thychantha.wuaze.com/?i=1">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
-<a href="mailto:chantthy62@gmail.com">
+<a href="mailto:thychanthaitc.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/thy-chantha-301313244/">
@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 About Me
 
-Hello! I'm **Thy Chantha**, a 4th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
+Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
 - 🔭 I’m currently working on **Smart Tourism** and **Currency Recognition** projects.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Advanced Big Data Analytics**.
