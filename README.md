@@ -127,7 +127,7 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 <a href="https://www.facebook.com/thychanthaITC">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://t.me/THYCHANTHA">
+<a href="https://t.me/e20210220">
   <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="https://www.tiktok.com/@amschantha">
