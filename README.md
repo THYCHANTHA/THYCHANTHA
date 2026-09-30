@@ -31,7 +31,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave"> Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-- 🔭 I’m currently working on **Smart Tourism** and **Currency Recognition** projects.
+- 🔭 I recently finished a thesis on **rice yield forecasting** at the National Institute of Statistics, and I work on **Smart Tourism** and **Currency Recognition** projects.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Advanced Big Data Analytics**.
 - 👯 I’m looking to collaborate on **Open Source Data Science projects**.
 - 💬 Ask me about **Python, Computer Vision, or NLP**.
@@ -129,6 +129,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
+---
+
+### 🏛️ Experience & Research
+
+**Data Science Intern, National Institute of Statistics (NIS), Ministry of Planning, Cambodia** (2024-2025)
+Department of Sub-National Statistics. Thesis defended on October 23, 2025.
+
+**Forecasting Sub-National Rice Yield and Analysis of Rice Cultivation**
+- Used data from the **Cambodia Agriculture Survey 2024 (CAS 2024)** covering non-aromatic, aromatic and sticky paddy.
+- Studied what drives yield by province: land use, fertilizer, pesticides, irrigation and farming techniques.
+- Built machine learning models (including **XGBoost** and **Random Forest**) and checked them with **RMSE, MAE and R²**.
+- Found big differences between provinces, which helps policymakers target support instead of using one policy for everyone.
+- Helped move NIS from descriptive reporting toward predictive analytics.
+
+**Education:** Engineering in Applied Mathematics and Statistics, major in Data Science, Institute of Technology of Cambodia (ITC).
 
 ---
 
