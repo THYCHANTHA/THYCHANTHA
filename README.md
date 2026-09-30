@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="./assets/header.png" width="100%" alt="Thy Chantha Portfolio Header"> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D1FF,100:FFD700&height=200&section=header&text=THY%20CHANTHA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" alt="Thy Chantha Header">
 
 <br/>
 
@@ -9,10 +9,10 @@
 # 🌌 THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
 
-<a href="https://thychantha.wuaze.com/?i=1">
+<a href="https://thychantha.wuaze.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
-<a href="mailto:thychanthaitc.com">
+<a href="mailto:thychanthaitc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/thy-chantha-301313244/">
@@ -29,13 +29,26 @@
 
 ### 🧑‍💻 About Me
 
-Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave"> Hello! I'm **Thy Chantha**, a **Data Science Engineer** and recent graduate of the **Institute of Technology of Cambodia (ITC)**, currently working at **Comin Khmer**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-- 🔭 I’m currently working on **Smart Tourism** and **Currency Recognition** projects.
+- 💼 I work at **Comin Khmer**.
+- 🔭 I recently finished a thesis on **rice yield forecasting** at the National Institute of Statistics, and I work on **Smart Tourism** and **Currency Recognition** projects.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Advanced Big Data Analytics**.
 - 👯 I’m looking to collaborate on **Open Source Data Science projects**.
 - 💬 Ask me about **Python, Computer Vision, or NLP**.
 - ⚡ Fun fact: I love exploring the intersection of **AI and IoT**.
+
+---
+
+### 🎯 What I Work On
+
+| Area | What I build |
+| :--- | :--- |
+| 👁️ **Computer Vision** | Detection and recognition systems (face mask detection, currency recognition) |
+| 🗣️ **NLP & Speech** | Khmer speech recognition and data collection |
+| 🧭 **Applied ML** | Recommendation systems for tourism |
+| 📈 **Data & BI** | Dashboards and analysis with Power BI, Tableau, Excel |
+| 🌐 **Web & Mobile** | Full stack apps with React, Flutter, PHP and SQL/NoSQL databases |
 
 ---
 
@@ -93,13 +106,49 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 
 ## 📊 GitHub Analysis
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=THYCHANTHA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THYCHANTHA&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THYCHANTHA/THYCHANTHA/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
+---
+
+### 🏛️ Experience & Research
+
+**Comin Khmer** (current)
+Working as a data professional. Role and details coming soon.
+
+**Data Science Intern (thesis), National Institute of Statistics (NIS), Ministry of Planning, Cambodia** (2024-2025)
+Department of Sub-National Statistics. Thesis defended on October 23, 2025.
+
+**Forecasting Sub-National Rice Yield and Analysis of Rice Cultivation**
+- Used data from the **Cambodia Agriculture Survey 2024 (CAS 2024)** covering non-aromatic, aromatic and sticky paddy.
+- Studied what drives yield by province: land use, fertilizer, pesticides, irrigation and farming techniques.
+- Built machine learning models (including **XGBoost** and **Random Forest**) and checked them with **RMSE, MAE and R²**.
+- Found big differences between provinces, which helps policymakers target support instead of using one policy for everyone.
+- Helped move NIS from descriptive reporting toward predictive analytics.
+
+**Education (graduated 2025):** Engineering in Applied Mathematics and Statistics, major in Data Science, Institute of Technology of Cambodia (ITC).
 
 ---
 
@@ -118,12 +167,22 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 
 - 📄 **[Full Thesis (Google Drive)](https://drive.google.com/file/d/1ld9nFhi5L524Xg2Ro2sccLAhpjaLEDmm/view?usp=sharing)** - Research and academic work from ITC.
 - 💼 **[Portfolio Website](https://thychantha.wuaze.com/)** - Project showcases and detailed resume.
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/thy-chantha-301313244/)** - Experience, education and endorsements.
 
 ---
 
 ### 📫 Let's Connect!
 
 <div align="center">
+<a href="https://thychantha.wuaze.com/">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/thy-chantha-301313244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:thychanthaitc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <a href="https://www.facebook.com/thychanthaITC">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
@@ -139,5 +198,5 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:FFD700&height=120&section=footer&animation=fadeIn" />
 </p>
