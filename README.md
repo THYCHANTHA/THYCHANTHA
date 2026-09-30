@@ -116,11 +116,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THYCHANTHA&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/00D1FF/THYCHANTHA" alt="Contribution Chart" width="85%" />
 </p>
 
 <p align="center">
