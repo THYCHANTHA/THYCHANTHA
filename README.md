@@ -29,8 +29,9 @@
 
 ### 🧑‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave"> Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave"> Hello! I'm **Thy Chantha**, a **Data Science Engineer** and recent graduate of the **Institute of Technology of Cambodia (ITC)**, currently working at **Comin Khmer**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
+- 💼 I work at **Comin Khmer**.
 - 🔭 I recently finished a thesis on **rice yield forecasting** at the National Institute of Statistics, and I work on **Smart Tourism** and **Currency Recognition** projects.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Advanced Big Data Analytics**.
 - 👯 I’m looking to collaborate on **Open Source Data Science projects**.
@@ -134,7 +135,10 @@
 
 ### 🏛️ Experience & Research
 
-**Data Science Intern, National Institute of Statistics (NIS), Ministry of Planning, Cambodia** (2024-2025)
+**Comin Khmer** (current)
+Working as a data professional. Role and details coming soon.
+
+**Data Science Intern (thesis), National Institute of Statistics (NIS), Ministry of Planning, Cambodia** (2024-2025)
 Department of Sub-National Statistics. Thesis defended on October 23, 2025.
 
 **Forecasting Sub-National Rice Yield and Analysis of Rice Cultivation**
@@ -144,7 +148,7 @@ Department of Sub-National Statistics. Thesis defended on October 23, 2025.
 - Found big differences between provinces, which helps policymakers target support instead of using one policy for everyone.
 - Helped move NIS from descriptive reporting toward predictive analytics.
 
-**Education:** Engineering in Applied Mathematics and Statistics, major in Data Science, Institute of Technology of Cambodia (ITC).
+**Education (graduated 2025):** Engineering in Applied Mathematics and Statistics, major in Data Science, Institute of Technology of Cambodia (ITC).
 
 ---
 
