@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/professional profile.jpg" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" alt="Thy Chantha Profile Picture">
+<img src="./assets/professional profile.png" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" alt="Thy Chantha Profile Picture">
 
 # 🌌 THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
