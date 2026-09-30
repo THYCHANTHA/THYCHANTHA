@@ -9,10 +9,10 @@
 # 🌌 THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
 
-<a href="https://thychantha.wuaze.com/?i=1">
+<a href="https://thychantha.wuaze.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
-<a href="mailto:thychanthaitc.com">
+<a href="mailto:thychanthaitc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/thy-chantha-301313244/">
@@ -36,6 +36,18 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 - 👯 I’m looking to collaborate on **Open Source Data Science projects**.
 - 💬 Ask me about **Python, Computer Vision, or NLP**.
 - ⚡ Fun fact: I love exploring the intersection of **AI and IoT**.
+
+---
+
+### 🎯 What I Work On
+
+| Area | What I build |
+| :--- | :--- |
+| 👁️ **Computer Vision** | Detection and recognition systems (face mask detection, currency recognition) |
+| 🗣️ **NLP & Speech** | Khmer speech recognition and data collection |
+| 🧭 **Applied ML** | Recommendation systems for tourism |
+| 📈 **Data & BI** | Dashboards and analysis with Power BI, Tableau, Excel |
+| 🌐 **Web & Mobile** | Full stack apps with React, Flutter, PHP and SQL/NoSQL databases |
 
 ---
 
@@ -93,13 +105,22 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 
 ## 📊 GitHub Analysis
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=THYCHANTHA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-
 
 ---
 
@@ -118,12 +139,22 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 
 - 📄 **[Full Thesis (Google Drive)](https://drive.google.com/file/d/1ld9nFhi5L524Xg2Ro2sccLAhpjaLEDmm/view?usp=sharing)** - Research and academic work from ITC.
 - 💼 **[Portfolio Website](https://thychantha.wuaze.com/)** - Project showcases and detailed resume.
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/thy-chantha-301313244/)** - Experience, education and endorsements.
 
 ---
 
 ### 📫 Let's Connect!
 
 <div align="center">
+<a href="https://thychantha.wuaze.com/">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/thy-chantha-301313244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:thychanthaitc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <a href="https://www.facebook.com/thychanthaITC">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
