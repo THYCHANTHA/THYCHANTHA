@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="./assets/header.png" width="100%" alt="Thy Chantha Portfolio Header"> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D1FF,100:FFD700&height=200&section=header&text=THY%20CHANTHA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" alt="Thy Chantha Header">
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 About Me
 
-Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave"> Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at the **Institute of Technology of Cambodia (ITC)**. I am deeply passionate about leveraging data-driven insights to solve complex real-world problems. My expertise spans across **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
 - 🔭 I’m currently working on **Smart Tourism** and **Currency Recognition** projects.
 - 🌱 I’m currently learning **Large Language Models (LLMs)** and **Advanced Big Data Analytics**.
@@ -119,6 +119,14 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THYCHANTHA&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THYCHANTHA/THYCHANTHA/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=THYCHANTHA&color=FFD700&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
@@ -170,5 +178,5 @@ Hello! I'm **Thy Chantha**, a 5th-year **Data Science Engineering student** at t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:FFD700&height=120&section=footer&animation=fadeIn" />
 </p>
