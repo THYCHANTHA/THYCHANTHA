@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Thy Chantha at work: data analysis, machine learning and business intelligence">
+<img src="./assets/profile-banner-ds.png" width="100%" alt="Thy Chantha, data scientist, with figures from the research portfolio">
 
 # THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
