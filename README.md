@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D1FF,100:FFD700&height=200&section=header&text=THY%20CHANTHA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%" alt="Thy Chantha Header">
+<img src="./assets/profile-banner.png" width="100%" alt="Thy Chantha at work: data analysis, machine learning and business intelligence">
 
-<br/>
-
-<img src="./assets/professional profile.png" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" alt="Thy Chantha Profile Picture">
-
-# 🌌 THY CHANTHA
+# THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
 
 <a href="https://thychantha.wuaze.com/">
