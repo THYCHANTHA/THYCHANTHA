@@ -203,9 +203,10 @@ Reproducible research projects on Cambodian data. Each repository documents its 
 <br><sub>Python · Audio · Speaker-grouped evaluation</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting"><img src="https://raw.githubusercontent.com/THYCHANTHA/cambodia-rice-yield-forecasting/main/visualizations/yield_model_comparison_r2.png" alt="Rice yield model comparison" width="100%"></a>
-<br><b><a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting">Cambodia Rice Yield Forecasting</a></b>
-<br>Rice-yield modelling from my NIS thesis work, with a published validity review of its own results.
+<b><a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting">Cambodia Rice Yield Forecasting</a></b>
+<br>Rice-yield modelling from my NIS thesis work (CAS 2024). The repository includes a
+<a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting/blob/main/reports/validity_review.md">validity review</a>
+that audits its own results for target leakage and separates valid from inflated scores.
 <br><sub>XGBoost · Random Forest · Python</sub>
 </td>
 </tr>
