@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner-ds.png" width="100%" alt="Thy Chantha, data scientist, with figures from the research portfolio">
+<img src="./assets/profile-banner.svg" width="100%" alt="Thy Chantha, data scientist and machine learning researcher working on Cambodian data">
 
 # THY CHANTHA
 ### 🚀 Data Scientist | Machine Learning Engineer | Computer Vision Specialist
