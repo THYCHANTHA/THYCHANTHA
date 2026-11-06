@@ -107,8 +107,12 @@
 ## 📊 GitHub Analysis
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THYCHANTHA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THYCHANTHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THYCHANTHA&theme=tokyonight" alt="Profile Details" width="85%" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=THYCHANTHA&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=THYCHANTHA&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -116,15 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THYCHANTHA&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THYCHANTHA&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/THYCHANTHA/THYCHANTHA/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://ghchart.rshah.org/00D1FF/THYCHANTHA" alt="Contribution Chart" width="85%" />
 </p>
 
 <p align="center">
@@ -152,13 +148,83 @@ Department of Sub-National Statistics. Thesis defended on October 23, 2025.
 
 ---
 
-### 📂 Featured Projects
+### 🔬 Data Science Research Portfolio
+
+Reproducible research projects on Cambodian data. Each repository documents its data sources, licences, tests and limitations.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/cambodia-agricultural-data-warehouse"><img src="https://raw.githubusercontent.com/THYCHANTHA/cambodia-agricultural-data-warehouse/main/reports/figures/dashboard_overview.png" alt="Agricultural data warehouse dashboard" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/cambodia-agricultural-data-warehouse">Cambodia Agricultural Data Warehouse</a></b>
+<br>PostgreSQL star schema (Bronze/Silver/Gold) integrating FAOSTAT, World Bank, CHIRPS and geoBoundaries.
+<br><sub>PostgreSQL · dbt · Prefect · Streamlit</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/mekong-flood-forecasting"><img src="https://raw.githubusercontent.com/THYCHANTHA/mekong-flood-forecasting/main/results/figures/forecast_2019.png" alt="Mekong discharge forecast" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/mekong-flood-forecasting">Mekong Flood Forecasting</a></b>
+<br>Forecasting model-simulated (GloFAS v4) Mekong discharge near Kratie. Research prototype, not a warning system.
+<br><sub>scikit-learn · statsmodels · Streamlit</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/explainable-financial-risk-ml"><img src="https://raw.githubusercontent.com/THYCHANTHA/explainable-financial-risk-ml/main/reports/figures/shap_beeswarm.png" alt="SHAP explanation of credit risk model" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/explainable-financial-risk-ml">Explainable Credit Risk ML</a></b>
+<br>Credit-default model comparison with SHAP explanations and fairness experiments on the UCI Taiwan dataset.
+<br><sub>scikit-learn · SHAP · Streamlit</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/cambodia-public-statistics-intelligence"><img src="https://raw.githubusercontent.com/THYCHANTHA/cambodia-public-statistics-intelligence/main/reports/figures/home.png" alt="Public statistics observatory" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/cambodia-public-statistics-intelligence">Cambodia Public Statistics Intelligence</a></b>
+<br>World Bank WDI pipeline and observatory comparing Cambodia with ASEAN and Czechia, with explicit missing-data handling.
+<br><sub>DuckDB · Python · Streamlit</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/geoai-cambodia-agricultural-monitoring"><img src="https://raw.githubusercontent.com/THYCHANTHA/geoai-cambodia-agricultural-monitoring/main/reports/figures/phase3_W1.png" alt="Sentinel-2 analysis window" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/geoai-cambodia-agricultural-monitoring">GeoAI Agricultural Monitoring</a></b>
+<br>Sentinel-2 cloud masking, spectral indices and WorldCover proxy labels in Kampong Cham. Research pilot.
+<br><sub>Rasterio · GeoPandas · STAC · Sentinel-2</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/khmer-nlp-research"><img src="https://raw.githubusercontent.com/THYCHANTHA/khmer-nlp-research/main/reports/figures/top20_keywords.png" alt="Khmer NLP top keywords" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/khmer-nlp-research">Khmer NLP Research</a></b>
+<br>Khmer text preprocessing, TF-IDF, classification and exploratory information retrieval on Khmer Wikipedia.
+<br><sub>Python · TF-IDF · scikit-learn</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/khmer-speech-data-quality"><img src="https://raw.githubusercontent.com/THYCHANTHA/khmer-speech-data-quality/main/reports/figures/detection_by_snr.png" alt="Noise detection rate by SNR" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/khmer-speech-data-quality">Khmer Speech Data Quality</a></b>
+<br>Validation checks and a leakage-aware quality benchmark for Khmer speech-recognition data (OpenSLR SLR42).
+<br><sub>Python · Audio · Speaker-grouped evaluation</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting"><img src="https://raw.githubusercontent.com/THYCHANTHA/cambodia-rice-yield-forecasting/main/visualizations/yield_model_comparison_r2.png" alt="Rice yield model comparison" width="100%"></a>
+<br><b><a href="https://github.com/THYCHANTHA/cambodia-rice-yield-forecasting">Cambodia Rice Yield Forecasting</a></b>
+<br>Rice-yield modelling from my NIS thesis work, with a published validity review of its own results.
+<br><sub>XGBoost · Random Forest · Python</sub>
+</td>
+</tr>
+</table>
+
+**More research repositories:**
+[Rice Market Methods](https://github.com/THYCHANTHA/cambodia-rice-market-methods) ·
+[Inflation Probabilistic Forecasting](https://github.com/THYCHANTHA/cambodia-inflation-probabilistic-forecasting) ·
+[YOLOv8 Face-Mask Re-evaluation](https://github.com/THYCHANTHA/computer-vision-yolov8-research) ·
+[Smart Finance AI](https://github.com/THYCHANTHA/smart-finance-ai-public)
+
+---
+
+### 📂 Earlier Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Smart Tourism](https://github.com/THYCHANTHA/Smart-Tourism)** | AI-powered recommendation system for tourists. | Python, ML, Flask |
 | **[Face Mask Detection](https://github.com/THYCHANTHA/Face-Mask-Detection)** | Real-time computer vision system for safety monitoring. | JS, OpenCV, TensorFlow |
-| **[Khmer ASR](https://github.com/THYCHANTHA/Khmer-ASR-Data-Collection)** | Automatic Speech Recognition for Khmer language. | Python, NLP, PyTorch |
 | **[Currency ITC AMS](https://github.com/THYCHANTHA/Cam-Currency-ITC-AMS)** | Currency recognition and management system. | Python, Computer Vision |
 
 ---
